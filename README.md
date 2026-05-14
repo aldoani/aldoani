@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-Backend Developer with 2+ years of expertise in architecting and implementing scalable server-side solutions. Passionate about clean architecture, API design, and performance optimization.
+Backend Developer with 3+ years of expertise in architecting and implementing scalable server-side solutions. Passionate about clean architecture, API design, and performance optimization.
 
 - 🔭 Working with **.NET Core**, **C#**, and **SQL Server**
 - 🌱 Specializing in RESTful APIs and Microservices Architecture
