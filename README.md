@@ -37,8 +37,8 @@ Backend Developer with 2+ years of expertise in architecting and implementing sc
 
 ## Contact
 - 📧 Email: [abdusaeed2014@gmail.com](mailto:abdusaeed2014@gmail.com)
-- 📱 Phone: +967735917416 | +967781813176
-- 📍 Location: Hudrmout, Muklla, Yemen
+- 📱 Phone: +966 55 227 6159
+- 📍 Location: Riyadh, Saudi Arabia
 
 ---
 <div align="center">Building robust, scalable backend solutions</div>
